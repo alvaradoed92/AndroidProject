@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c5b97f6906b1d1669e2a3a31a1e758a8243dc6d">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_837bc954b666a90b88178dc30f7409adb1bdc75f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b2e87972e27a84e9ee5f1b847d9e51eed8ce464/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwinalvarado/.android/build-cache/8bfb66e9078bf5392ff3ae4b79daefb0e7b30e67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/pre-dexed/debug/classes_e9f58fb855e1cc4141fb90ee423b0be2fded365a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/libs/ormlite-android-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-android-5.0_7bb9f13bcde629eefd0d79d750c5be19c27aa0f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/libs/ormlite-core-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/pre-dexed/debug/ormlite-core-5.0_d7474d1f6ca1a7b2f89a5fe7d8ac0317e6dc7189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/libs/ormlite-android-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/pre-dexed/debug/ormlite-android-5.0_7bb9f13bcde629eefd0d79d750c5be19c27aa0f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/libs/ormlite-core-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/edwinalvarado/Documents/Projects/PruebaAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/2/ormlite-core-5.0_d7474d1f6ca1a7b2f89a5fe7d8ac0317e6dc7189/classes.dex" />
+    </item>
+
+</items>
